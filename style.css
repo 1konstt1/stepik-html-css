@@ -1,0 +1,19 @@
+h1{
+    color: #005fb3;
+    font-weight: 400;
+    font-size: 42px;
+}
+
+p,
+blockquote{
+    color: #222;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+blockquote{
+color: #005fb3;
+font-style: italic;
+font-size: 24px;
+}
